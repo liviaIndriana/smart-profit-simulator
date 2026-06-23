@@ -99,7 +99,7 @@ baseline_input = np.array([[10, 10]])
 baseline_profit = model.predict(baseline_input)[0]
 
 # HEADER
-st.markdown('<div class="big-title"> DASHBOARD SIMULASI KEUNTUNGAN</div>', unsafe_allow_html=True)
+st.markdown('<div class="big-title"> SMART PROFIT DECISION DASHBOARD</div>', unsafe_allow_html=True)
 
 st.write("")
 
